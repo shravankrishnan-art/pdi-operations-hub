@@ -20,7 +20,7 @@ const PORTAL_DATA = [
       {
         id: "pbi-1",
         title: "New Master Report",
-        description: "The primary top-level executive dashboard for overall business performance.",
+        description: "Lead and row-level data about each and every lead in our system.",
         url: "https://app.powerbi.com/links/xWHpu0cMYX?ctid=a294b6dc-00a7-4ac0-9505-9cf80c23a81f&pbi_source=linkSharec",
         icon: TrendingUp
       },
@@ -55,7 +55,7 @@ const PORTAL_DATA = [
       {
         id: "pbi-6",
         title: "Deal Dynamics & Productivity",
-        description: "Deep dive into deal velocity, rep productivity, and conversion triggers.",
+        description: "Focuses on metrics of reps and deal dynamics app usage.",
         url: "https://app.powerbi.com/links/m3tnb3iJA-?ctid=a294b6dc-00a7-4ac0-9505-9cf80c23a81f&pbi_source=linkShare",
         icon: Zap
       },
